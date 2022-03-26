@@ -1,2 +1,3 @@
 file 1  created on remote repository 
 updated file 1 after commiting and merging  feature1 branch to main branch
+cloned CloneDemo repository and named it CloneDemo_feature1 and making changes to file 1 
